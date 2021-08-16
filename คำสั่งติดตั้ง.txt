@@ -1,0 +1,5 @@
+DDos_V3ของLTEMX2
+
+pkg install nodejs -y
+
+npm install follow-redirects
